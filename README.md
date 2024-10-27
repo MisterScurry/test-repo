@@ -7,3 +7,7 @@ Second line for update.
 ## Subheader
 
 I will get better. 
+
+## Local Development
+
+1. Open indext.html in your browser.
